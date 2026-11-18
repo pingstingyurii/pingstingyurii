@@ -5,7 +5,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img width="200" height="152" alt="bfpor-battle-for-palace-objects" src="https://github.com/user-attachments/assets/c19df872-c722-4b52-a5c1-4e6d87d166df" />
 </p>
-<p align="center"><h2>123 WE WANT</h2></p>
+<p align="center">123 WE WANT</p>
 <p align="center">
 <img width="600" height="110" alt="yuri-fire" src="https://github.com/user-attachments/assets/ede5200b-e2f7-4d4b-8013-28d410ce68a2" />
 </p>
